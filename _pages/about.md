@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Professor Junxian He. I received my B.Eng. from Shanghai Jiao Tong University in June 2024. My research focuses on natural language processing and machine learning.
 
 Research Interests
 ======
@@ -77,6 +77,6 @@ Awards
 Contact
 ======
 * **Email:** jliugi@connect.ust.hk
-* **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-* **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-* **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
+* **GitHub:** Vicent0205 (https://github.com/Vicent0205)
+* **Google Scholar:** https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+* **X (Twitter):** @junteng88716710
