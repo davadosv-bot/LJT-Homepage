@@ -21,6 +21,25 @@ My research focuses on **natural language processing** and **machine learning**.
 - **Hallucination in Vision-Language Models (VLMs)**
 - **LLM Truthfulness and Interpretability**
 
+## Selected Publications
+
+{% if site.publications %}
+{% assign sorted_publications = site.publications | sort: 'year' | reverse %}
+{% for pub in sorted_publications %}
+<div class="publication-item" style="margin-bottom: 1.5rem;">
+  <h4 style="margin-bottom: 0.25rem;">{{ pub.title }}</h4>
+  <p style="margin: 0; color: #666;">{{ pub.authors | markdownify }}</p>
+  <p style="margin: 0;">
+    {% if pub.venue %}<em>{{ pub.venue }}</em>{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
+    {% if pub.link %} | <a href="{{ pub.link.url }}" target="_blank">{{ pub.link.text }}</a>{% endif %}
+    {% if pub.code %} | <a href="{{ pub.code.url }}" target="_blank">{{ pub.code.text }}</a>{% endif %}
+  </p>
+</div>
+{% endfor %}
+{% endif %}
+
+<p>For the full list of publications, see the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.</p>
+
 ## Education
 
 - **Ph.D. in Computer Science** (2024 – Present)  
