@@ -21,7 +21,7 @@ My research focuses on **natural language processing** and **machine learning**.
 - **Hallucination in Vision-Language Models (VLMs)**
 - **LLM Truthfulness and Interpretability**
 
-## Selected Publications
+## Publications
 
 {% if site.publications %}
 {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
@@ -38,7 +38,7 @@ My research focuses on **natural language processing** and **machine learning**.
 {% endfor %}
 {% endif %}
 
-<p>For the full list of publications, see the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.</p>
+<p>See also the dedicated <a href="{{ '/publications/' | relative_url }}">Publications</a> page for the full list.</p>
 
 ## Education
 
