@@ -65,13 +65,6 @@ My research focuses on **natural language processing** and **machine learning**.
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Skills
-
-- **Programming Languages:** Python, C++, JavaScript
-- **Machine Learning Frameworks:** PyTorch, Hugging Face Transformers
-- **Tools & Platforms:** Git, Docker, Linux, Slurm
-- **Areas:** Large Language Models, Vision-Language Models, Reinforcement Learning, Reasoning
-
 ## Contact
 
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
