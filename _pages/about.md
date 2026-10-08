@@ -29,7 +29,7 @@ My research focuses on **natural language processing** and **machine learning**.
 - **B.Eng.** (2020 – 2024)  
   Shanghai Jiao Tong University
 
-## Experience
+## Research Experience
 
 - **Research Intern** (February 2025 – Present)  
   MINIMAX
@@ -45,6 +45,13 @@ My research focuses on **natural language processing** and **machine learning**.
 ## Awards
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+## Skills
+
+- **Programming Languages:** Python, C++, JavaScript
+- **Machine Learning Frameworks:** PyTorch, Hugging Face Transformers
+- **Tools & Platforms:** Git, Docker, Linux, Slurm
+- **Areas:** Large Language Models, Vision-Language Models, Reinforcement Learning, Reasoning
 
 ## Contact
 

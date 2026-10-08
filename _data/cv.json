@@ -7,7 +7,7 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "advisor": "Prof. Junxian He",
-      "description": "First-year PhD candidate at HKUST NLP Group."
+      "description": "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
     },
     {
       "institution": "Shanghai Jiao Tong University",
@@ -15,7 +15,7 @@
       "degree": "B.Eng.",
       "startDate": "2020-09-01",
       "endDate": "2024-06-30",
-      "description": "Graduated with Zhiyuan Honor Scholarship."
+      "description": "Graduated with Zhiyuan Honor Scholarship. Advised by Prof. Junxian He during undergraduate studies."
     }
   ],
   "experience": [
@@ -24,7 +24,7 @@
       "position": "Research Intern",
       "startDate": "2025-02-01",
       "endDate": "",
-      "description": "Research Internship."
+      "description": "Research Internship focusing on LLM reasoning and reinforcement learning."
     },
     {
       "institution": "Tencent WXG",
@@ -32,7 +32,7 @@
       "startDate": "2024-06-01",
       "endDate": "2024-09-30",
       "advisor": "Zifei Shan",
-      "description": "Research Internship."
+      "description": "Research Internship working on vision-language model hallucination problems."
     },
     {
       "institution": "Shanghai AI Lab",
@@ -40,7 +40,7 @@
       "startDate": "2023-06-01",
       "endDate": "2023-12-31",
       "advisor": "Prof. Yu Cheng",
-      "description": "Research Internship."
+      "description": "Research Internship working on LLM truthfulness and interpretability."
     }
   ],
   "awards": [
@@ -48,6 +48,24 @@
       "name": "Zhiyuan Honor Scholarship",
       "institution": "Shanghai Jiao Tong University",
       "year": "2024"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Python", "C++", "JavaScript"]
+    },
+    {
+      "category": "Machine Learning Frameworks",
+      "items": ["PyTorch", "Hugging Face Transformers"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Git", "Docker", "Linux", "Slurm"]
+    },
+    {
+      "category": "Research Areas",
+      "items": ["Large Language Models", "Vision-Language Models", "Reinforcement Learning", "Reasoning"]
     }
   ],
   "publications": [
